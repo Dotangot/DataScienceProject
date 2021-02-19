@@ -1,3 +1,3 @@
-# DataScienceProject
-Football players market value analyzation & prediction using Machine Learning
+# FirstDataScienceProject
+Football Player's Performance & Market Value Data Mining & Machine Learning Project
 
